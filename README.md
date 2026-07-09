@@ -1,20 +1,33 @@
-# Spam SMS Detection
+# 💳 Credit Card Fraud Detection using Machine Learning
 
-This project detects whether an SMS message is Spam or Ham using Machine Learning.
+## 📌 Project Description
+This project predicts whether a credit card transaction is fraudulent or legitimate using a Machine Learning model. A Streamlit web application is used to provide an easy-to-use interface for prediction.
 
-## Algorithm Used
+## 🚀 Features
+- Predicts Fraud / Legitimate transactions
+- Simple Streamlit web interface
+- Machine Learning model using Decision Tree Classifier
+- Fast and user-friendly
 
-* TF-IDF Vectorization
-* Multinomial Naive Bayes
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+- Joblib
 
-## Dataset
+## ▶️ How to Run
 
-* SMS Spam Collection Dataset
+```bash
+streamlit run app.py
+```
 
-## Accuracy
+## 📂 Project Files
+- app.py
+- model.pkl
+- requirements.txt
+- README.md
 
-* 96.23%
-
-## Internship
-
-* CODSOFT Machine Learning Internship
+## 👨‍💻 Author
+**Atchaya K**
+B.Tech Artificial Intelligence and Machine Learning
